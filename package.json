@@ -34,7 +34,7 @@
     "react-colorful": "^4.0.4",
     "react-dom": "^16.13.1",
     "react-scripts": "^0.0.0",
-    "svgo": "^3.0.2"
+    "svgo": "^3.3.3"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.9.0",
